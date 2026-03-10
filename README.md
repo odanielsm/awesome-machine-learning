@@ -1898,6 +1898,12 @@ be
 * [Pollinations.AI](https://pollinations.ai) - Free, no-signup APIs for text, image, and audio generation with no API keys required. Offers OpenAI-compatible interfaces and React hooks for easy integration.
 * [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 
+
+### GPU Cloud Infrastructure
+
+- [VultrBonus](https://vultrbonus.com.br) - Comprehensive guide comparing GPU cloud providers (NVIDIA A100, H100) for AI/ML training and inference. Includes real benchmarks, cost analysis, and deployment strategies.
+
+- 
 ## Credits
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
